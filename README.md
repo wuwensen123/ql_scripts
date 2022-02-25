@@ -1,6 +1,17 @@
-# ql_scripts
+## 直连
 ```
-ql repo https://github.com/zspro/ql_scripts.git "jd_|jx_|jdCookie" "backUp|icon" "^jd[^]|USER|sendNotify|sign_graphics_validate|JDJR|JDSign|ql" "main"
+ql repo https://github.com/zspro/ql_scripts.git "jd_|jx_" "backUp|icon" "^jd[^]|USER|sendNotify|sign_graphics_validate|JDJR|JDSign|ql|jdCookie" "main"
+```
+
+## 镜像
+```
+ql repo https://hub.fastgit.xyz/zspro/ql_scripts.git "jd_|jx_" "backUp|icon" "^jd[^]|USER|sendNotify|sign_graphics_validate|JDJR|JDSign|ql|jdCookie" "main"
+```
+```
+ql repo https://hub.0z.gs/zspro/ql_scripts.git "jd_|jx_" "backUp|icon" "^jd[^]|USER|sendNotify|sign_graphics_validate|JDJR|JDSign|ql|jdCookie" "main"
+```
+```
+ql repo https://hub.shutcm.cf/zspro/ql_scripts.git "jd_|jx_" "backUp|icon" "^jd[^]|USER|sendNotify|sign_graphics_validate|JDJR|JDSign|ql|jdCookie" "main"
 ```
 
 ## 特别声明:
