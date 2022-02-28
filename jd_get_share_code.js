@@ -58,7 +58,7 @@ if ($.isNode()) {
     }
   }
   for (var key of activityMap.keys()) {
-    let botValue = Array.from(new Set(activityMap.get(key))).join("&");
+    let botValue = Array.from(new Set(activityMap.get(key))).slice(0,5).join("&");
     console.log("/" + key + " " + botValue+'\n');
   }
 })()
